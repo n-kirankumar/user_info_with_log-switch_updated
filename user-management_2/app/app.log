@@ -1,0 +1,63 @@
+2024-07-05 08:57:35,721 - log - INFO - Valid email: ndines@example.com
+2024-07-05 08:57:35,722 - log - INFO - Valid age: 30
+2024-07-05 08:57:35,722 - log - INFO - Valid mobile number: 9876543210
+2024-07-05 08:57:35,723 - log - INFO - Valid gender: male
+2024-07-05 08:57:35,723 - log - INFO - Valid blood group: A+
+2024-07-05 08:57:35,723 - log - INFO - Admin kiran added new user ndines
+2024-07-05 08:57:35,723 - log - INFO - Admin kiran added new user ndines
+2024-07-05 08:57:35,724 - log - INFO - Valid email: new_ndines@example.com
+2024-07-05 08:57:35,724 - log - INFO - User kiran updated user ndines: {'email': 'new_ndines@example.com'}
+2024-07-05 08:57:35,724 - log - INFO - Admin kiran updated user ndines: {'email': 'new_ndines@example.com'}
+2024-07-05 08:57:35,724 - log - INFO - User info for ndines: {'email': 'new_ndines@example.com', 'age': 30, 'mobile': '9876543210', 'gender': 'male', 'blood_group': 'A+', 'role': 'user'}
+2024-07-05 08:57:35,725 - log - INFO - Admin kiran viewed user ndines: {'email': 'new_ndines@example.com', 'age': 30, 'mobile': '9876543210', 'gender': 'male', 'blood_group': 'A+', 'role': 'user'}
+2024-07-05 08:57:35,725 - log - INFO - Admin nkiran listing all users
+2024-07-05 08:57:35,725 - log - INFO - Admin nkiran listed all users: {'kiran': {'email': 'kiran@example.com', 'age': 25, 'mobile': '9876543210', 'gender': 'male', 'blood_group': 'A+', 'role': 'admin'}, 'radha': {'email': 'radha@example.com', 'age': 30, 'mobile': '9123456789', 'gender': 'male', 'blood_group': 'B+', 'role': 'user'}, 'nkiran': {'email': 'nkiran@example.com', 'age': 22, 'mobile': '9988776655', 'gender': 'female', 'blood_group': 'O+', 'role': 'admin'}, 'ndines': {'email': 'new_ndines@example.com', 'age': 30, 'mobile': '9876543210', 'gender': 'male', 'blood_group': 'A+', 'role': 'user'}}
+2024-07-05 08:57:35,725 - log - INFO - User info for radha: {'email': 'radha@example.com', 'age': 30, 'mobile': '9123456789', 'gender': 'male', 'blood_group': 'B+', 'role': 'user'}
+2024-07-05 08:57:35,725 - log - INFO - Normal user radha viewed their information: {'email': 'radha@example.com', 'age': 30, 'mobile': '9123456789', 'gender': 'male', 'blood_group': 'B+', 'role': 'user'}
+2024-07-05 09:00:19,816 - log - INFO - Valid email: dummy@example.com
+2024-07-05 09:00:19,817 - log - INFO - Valid age: 30
+2024-07-05 09:00:19,817 - log - INFO - Valid mobile number: 7776543210
+2024-07-05 09:00:19,817 - log - INFO - Valid gender: male
+2024-07-05 09:00:19,817 - log - INFO - Valid blood group: A+
+2024-07-05 09:00:19,817 - log - INFO - Admin kiran added new user dummy
+2024-07-05 09:00:19,817 - log - INFO - Admin kiran added new user dummy
+2024-07-05 09:00:19,817 - log - ERROR - User ndines not found
+2024-07-05 09:00:19,817 - log - CRITICAL - User not found
+2024-07-05 09:00:19,818 - log - ERROR - User ndines not found
+2024-07-05 09:00:19,818 - log - CRITICAL - User not found
+2024-07-05 09:00:19,818 - log - INFO - Admin nkiran listing all users
+2024-07-05 09:00:19,818 - log - INFO - Admin nkiran listed all users: {'kiran': {'email': 'kiran@example.com', 'age': 25, 'mobile': '9876543210', 'gender': 'male', 'blood_group': 'A+', 'role': 'admin'}, 'radha': {'email': 'radha@example.com', 'age': 30, 'mobile': '9123456789', 'gender': 'male', 'blood_group': 'B+', 'role': 'user'}, 'nkiran': {'email': 'nkiran@example.com', 'age': 22, 'mobile': '9988776655', 'gender': 'female', 'blood_group': 'O+', 'role': 'admin'}, 'dummy': {'email': 'dummy@example.com', 'age': 30, 'mobile': '7776543210', 'gender': 'male', 'blood_group': 'A+', 'role': 'user'}}
+2024-07-05 09:00:19,818 - log - INFO - User info for radha: {'email': 'radha@example.com', 'age': 30, 'mobile': '9123456789', 'gender': 'male', 'blood_group': 'B+', 'role': 'user'}
+2024-07-05 09:00:19,818 - log - INFO - Normal user radha viewed their information: {'email': 'radha@example.com', 'age': 30, 'mobile': '9123456789', 'gender': 'male', 'blood_group': 'B+', 'role': 'user'}
+2024-07-05 09:01:04,593 - log - INFO - Valid email: dummy@example.com
+2024-07-05 09:01:04,594 - log - INFO - Valid age: 30
+2024-07-05 09:01:04,594 - log - INFO - Valid mobile number: 7776543210
+2024-07-05 09:01:04,595 - log - INFO - Valid gender: male
+2024-07-05 09:01:04,595 - log - INFO - Valid blood group: A+
+2024-07-05 09:01:04,595 - log - INFO - Admin kiran added new user dummy
+2024-07-05 09:01:04,595 - log - INFO - Admin kiran added new user dummy
+2024-07-05 09:01:04,595 - log - INFO - Valid email: new_dummy@example.com
+2024-07-05 09:01:04,596 - log - INFO - User kiran updated user dummy: {'email': 'new_dummy@example.com'}
+2024-07-05 09:01:04,596 - log - INFO - Admin kiran updated user dummy: {'email': 'new_dummy@example.com'}
+2024-07-05 09:01:04,596 - log - ERROR - User ndines not found
+2024-07-05 09:01:04,596 - log - CRITICAL - User not found
+2024-07-05 09:01:04,596 - log - INFO - Admin nkiran listing all users
+2024-07-05 09:01:04,596 - log - INFO - Admin nkiran listed all users: {'kiran': {'email': 'kiran@example.com', 'age': 25, 'mobile': '9876543210', 'gender': 'male', 'blood_group': 'A+', 'role': 'admin'}, 'radha': {'email': 'radha@example.com', 'age': 30, 'mobile': '9123456789', 'gender': 'male', 'blood_group': 'B+', 'role': 'user'}, 'nkiran': {'email': 'nkiran@example.com', 'age': 22, 'mobile': '9988776655', 'gender': 'female', 'blood_group': 'O+', 'role': 'admin'}, 'dummy': {'email': 'new_dummy@example.com', 'age': 30, 'mobile': '7776543210', 'gender': 'male', 'blood_group': 'A+', 'role': 'user'}}
+2024-07-05 09:01:04,597 - log - INFO - User info for radha: {'email': 'radha@example.com', 'age': 30, 'mobile': '9123456789', 'gender': 'male', 'blood_group': 'B+', 'role': 'user'}
+2024-07-05 09:01:04,597 - log - INFO - Normal user radha viewed their information: {'email': 'radha@example.com', 'age': 30, 'mobile': '9123456789', 'gender': 'male', 'blood_group': 'B+', 'role': 'user'}
+2024-07-05 09:01:46,429 - log - INFO - Valid email: dummy@example.com
+2024-07-05 09:01:46,430 - log - INFO - Valid age: 30
+2024-07-05 09:01:46,430 - log - INFO - Valid mobile number: 7776543210
+2024-07-05 09:01:46,431 - log - INFO - Valid gender: male
+2024-07-05 09:01:46,431 - log - INFO - Valid blood group: A+
+2024-07-05 09:01:46,431 - log - INFO - Admin kiran added new user dummy
+2024-07-05 09:01:46,431 - log - INFO - Admin kiran added new user dummy
+2024-07-05 09:01:46,431 - log - INFO - Valid email: new_dummy@example.com
+2024-07-05 09:01:46,432 - log - INFO - User kiran updated user dummy: {'email': 'new_dummy@example.com'}
+2024-07-05 09:01:46,432 - log - INFO - Admin kiran updated user dummy: {'email': 'new_dummy@example.com'}
+2024-07-05 09:01:46,432 - log - ERROR - User ndines not found
+2024-07-05 09:01:46,433 - log - CRITICAL - User not found
+2024-07-05 09:01:46,433 - log - INFO - Admin nkiran listing all users
+2024-07-05 09:01:46,433 - log - INFO - Admin nkiran listed all users: {'kiran': {'email': 'kiran@example.com', 'age': 25, 'mobile': '9876543210', 'gender': 'male', 'blood_group': 'A+', 'role': 'admin'}, 'radha': {'email': 'radha@example.com', 'age': 30, 'mobile': '9123456789', 'gender': 'male', 'blood_group': 'B+', 'role': 'user'}, 'nkiran': {'email': 'nkiran@example.com', 'age': 22, 'mobile': '9988776655', 'gender': 'female', 'blood_group': 'O+', 'role': 'admin'}, 'dummy': {'email': 'new_dummy@example.com', 'age': 30, 'mobile': '7776543210', 'gender': 'male', 'blood_group': 'A+', 'role': 'user'}}
+2024-07-05 09:01:46,433 - log - ERROR - User radha2 not found
+2024-07-05 09:01:46,434 - log - CRITICAL - User not found
